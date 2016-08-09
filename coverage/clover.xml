@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1470732150815" clover="3.2.0">
+	<project timestamp="1470732150815"  name="All Files" >
+		<metrics statements="8"  coveredstatements="8"  conditionals="31"  coveredconditionals="18"  methods="12"  coveredmethods="12"  elements="51"  coveredelements="38"  complexity="0"  packages="1"  files="1"  classes="1"  loc="34"  ncloc="34" />
+		<package name="UnitTesting" >
+			<metrics statements="8"  coveredstatements="8"  conditionals="31"  coveredconditionals="18"  methods="12"  coveredmethods="12" />
+			<file name="MyComponent.js"  path="/Users/patrickvanvuuren/Developer/Personal/React/UnitTesting/MyComponent.js" >
+				<metrics statements="8"  coveredstatements="8"  conditionals="31"  coveredconditionals="18"  methods="12"  coveredmethods="12" />
+				<line num="1"  count="5"  type="stmt" />
+				<line num="3"  count="5"  type="stmt" />
+				<line num="6"  count="1"  type="stmt" />
+				<line num="12"  count="1"  type="stmt" />
+				<line num="18"  count="7"  type="stmt" />
+				<line num="26"  count="1"  type="stmt" />
+				<line num="29"  count="1"  type="stmt" />
+				<line num="34"  count="1"  type="stmt" />
+			</file>
+		</package>
+	</project>
+</coverage>
